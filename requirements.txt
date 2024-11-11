@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
-scikit-learn
-lightgbm
-beautifulsoup4
-requests
